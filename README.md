@@ -1,6 +1,6 @@
 # Zscaler Posture Control (ZPC) - Vulnerable Cloudformation Template
 
-This is "Vulnerable by Design" Terraform repository.
+This is "Vulnerable by Design" Cloudformation repository.
 
 ## Table of Contents
 
