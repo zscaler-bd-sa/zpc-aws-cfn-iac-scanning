@@ -1,5 +1,7 @@
 # Zscaler Posture Control (ZPC) - Vulnerable Cloudformation Template
 
+[![Maintained by Zsclaer-BD-SA Team](https://img.shields.io/badge/maintained%20by-Zscaler--BD--SA%20Team-blue)](https://github.com/zscaler-bd-sa)
+
 This is "Vulnerable by Design" Cloudformation repository.
 
 ## Table of Contents
